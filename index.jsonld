@@ -1,0 +1,30 @@
+{
+  "@context": "https://w3id.org/did/v1",
+  "id": "did:github:md2perpe",
+  "publicKey": [
+    {
+      "encoding": "application/pgp-keys",
+      "type": "OpenPgpVerificationKey2019",
+      "id": "did:github:md2perpe#kid=k4w8XgUTmFZyao_42QNTT6YGNYDkfeSzl2AYV4Ap3nw",
+      "controller": "did:github:md2perpe",
+      "publicKeyPem": "-----BEGIN PGP PUBLIC KEY BLOCK-----\r\nVersion: OpenPGP.js v4.5.5\r\nComment: https://openpgpjs.org\r\n\r\nxk8EXUMKrBMFK4EEAAoCAwQW6v94a35V3gXpDGrGH8bz5YX9ANN5SC6j6x5C\r\n3JV2P1brl/PN3a4cbg15bJvgadVXMdoVO65Lt332RKatySMRzRdhbm9uIDxh\r\nbm9uQGV4YW1wbGUuY29tPsJ3BBATCAAfBQJdQwqsBgsJBwgDAgQVCAoCAxYC\r\nAQIZAQIbAwIeAQAKCRCIb0R2h7tlsCgDAP4qOXWWh7aO8nNlWoSxX3P8w6yW\r\nPYjaMJdsy45C273Q7AD/WD3Z8y6XFhlfB+rYs8TPjS0YnP7oD/8d4XnhUTrv\r\nuRbOUwRdQwqsEgUrgQQACgIDBNrGyGHqW3efJD5pQf7Ijqyy4ZC1VriQ1xqn\r\nFkHkQTmgJ900GV9HulCD4KhjrKGaZnyhmmJYzpHIYWHn3BXwYk8DAQgHwmEE\r\nGBMIAAkFAl1DCqwCGwwACgkQiG9Edoe7ZbCQWAD+LWFyVc3SSpjdIQZpePfg\r\nnx8MvbetKxDDwS0xnKDVtnMA/AgLBNFg49dxNlMUKr+wQ3YS6hHI8NpJhvUc\r\nvG4fCkfE\r\n=ZGkK\r\n-----END PGP PUBLIC KEY BLOCK-----\r\n"
+    },
+    {
+      "encoding": "application/pgp-keys",
+      "type": "OpenPgpVerificationKey2019",
+      "id": "did:github:md2perpe#kid=-0QmeiYlSHT_3ocuBLlNJr2D3TU8LdGu1EPPfzo75CI",
+      "controller": "did:github:md2perpe",
+      "publicKeyPem": "-----BEGIN PGP PUBLIC KEY BLOCK-----\r\nVersion: OpenPGP.js v4.5.5\r\nComment: https://openpgpjs.org\r\n\r\nxk8EXUMKrBMFK4EEAAoCAwTlqX99EeUTSwLRLMTY5mYQB8qTkog4NuONj/44\r\niuDCMu/uZ2rCmDQwRHeBKAFqZ31KOKNx53mCn3gyKuyZezaGzRdhbm9uIDxh\r\nbm9uQGV4YW1wbGUuY29tPsJ3BBATCAAfBQJdQwqsBgsJBwgDAgQVCAoCAxYC\r\nAQIZAQIbAwIeAQAKCRCNUeIdodrxJ7MvAQCRJlq6BwBwIGLbovPxlGmIYIcX\r\nc2HZ7wrHqBo4GQBG1AEAxIqkpz9dEDb4nsTO7J9vUb0D7QdARYfdMv9uf0Kg\r\nYNbOUwRdQwqsEgUrgQQACgIDBOf7CDzdG3MsZj2GFd5dQHTNtgY2d2W+FqSr\r\nN8I0u26hnsQFcX5NiBaG/3fjBnzlseNra+8gKYPqratW3zK36dADAQgHwmEE\r\nGBMIAAkFAl1DCqwCGwwACgkQjVHiHaHa8ScftQEAyD9D7T0gZEoT+SObne17\r\ndAy7/LozSKI3Xtlxi3560wEA/jbCHZP543WxWHlTLCf3mMwVyfBACQdU+Z+z\r\n6MqVDM8M\r\n=OERI\r\n-----END PGP PUBLIC KEY BLOCK-----\r\n"
+    }
+  ],
+  "authentication": [],
+  "service": [],
+  "proof": {
+    "type": "OpenPgpSignature2019",
+    "creator": "did:github:md2perpe#kid=k4w8XgUTmFZyao_42QNTT6YGNYDkfeSzl2AYV4Ap3nw",
+    "domain": "GitHubDID",
+    "nonce": "1b787e1e8a48174992414d8499409203",
+    "created": "2019-08-01T15:52:12.780Z",
+    "signatureValue": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.5.5\r\nComment: https://openpgpjs.org\r\n\r\nwl4EARMIAAYFAl1DCq8ACgkQiG9Edoe7ZbDK9wD/YHnCvn/Gcjawjv9wwg2b\r\nx0Dhfnzrf8QXpc8m/TU1SfUBAPdN/BjmoYun2kFAn3mT3A/ikVNB2HJTOymX\r\n5+O5zN5n\r\n=v3gS\r\n-----END PGP SIGNATURE-----\r\n"
+  }
+}
